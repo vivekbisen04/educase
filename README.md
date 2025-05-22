@@ -1,4 +1,4 @@
-# PopX Authentication Platform
+
 
 A modern authentication platform built with React, TypeScript, and Tailwind CSS.
 
